@@ -1,1 +1,7 @@
 
+Análises de estatísticas de partidas no jogo League Of Legends, da Riot Games. 
+
+Utilizei dados provenientes da SoloQ de elo Challenger e GrandMester, na Season 13 (2020) e servidor coreano. 
+
+Dashboard criada com base em dados disponibilizados no link https://www.kaggle.com/datasets/gyejr95/league-of-legendslol-ranked-games-2020-ver1 .
+
